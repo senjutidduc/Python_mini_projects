@@ -3,3 +3,5 @@ Project 1: Health Potion, Suppose a person has health points(HP) as 50. Imagine 
 Project 2: Ask user for his/her name, city, age and hobby and print it in a single statement.
 
 Project 3: Ask user for email address and use string slicer print it username and domain name.
+
+Project 4: It contains a list of known_users, and the system removes or adds the users based on their preference.
